@@ -65,7 +65,7 @@ class LinkedList
             }
             if(c==0)
             {
-                Log.info("No data found");
+                Log.info("No data found.");
             }
             String print1="\n"+print;
             Log.info(print1);
@@ -123,7 +123,7 @@ class LinkedList
             }
             if(c==0)
             {
-                Log.info("No data found");
+                Log.info("No data found..");
             }
             String print1="\n"+print;
             Log.info(print1);
@@ -153,7 +153,7 @@ class LinkedList
             }
             if(c==0)
             {
-                Log.info("No data found");
+                Log.info("No data found...");
             }
             String print1="\n"+print;
             Log.info(print1);
